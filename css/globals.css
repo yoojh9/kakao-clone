@@ -1,1 +1,5 @@
-font-family: 'Open Sans', sans-serif;
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 60px;
+    padding-bottom: 65px;
+}

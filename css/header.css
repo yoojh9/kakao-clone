@@ -2,6 +2,9 @@
     background-color: #413630;
     color: white;
     padding: 5px 10px 15px 10px;
+    position: fixed;
+    width: 100%;/* position fixed로 고정하면 쭈그러들어 버려서 width: 100% 로 해야함*/
+    top: 0;
 }
 
 .top-header .header__top,
