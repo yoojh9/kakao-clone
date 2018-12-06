@@ -6,3 +6,6 @@
 
 ## 2. 구글 폰트
 - [구글폰트](https://fonts.google.com/)
+
+## 3. 완성 화면
+- https://yoojh9.github.io/kakao-clone/index.html
