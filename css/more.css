@@ -1,0 +1,123 @@
+.more{
+    background-color: #ebebeb;
+}
+
+.more .more__header{
+    background-color: white;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.more__header i{
+    color: #523737;
+}
+
+.more__header .more-header__column{
+    display: flex;
+    align-items: center;
+}
+
+.more__header .more-header__column img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.more-header__info .more-header__title{
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.more-header__info .more-header__subtitle{
+    font-size: 12px;
+    color: #b4b4b4;
+}
+
+.more .more__options{
+    margin-bottom: 10px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.more__options .more__option{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 500;
+    
+}
+
+.more__options i{
+    margin-bottom: 10px;
+    color : #523737;
+}
+
+.more .more__plus-friends{
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.more__plus-friends .plus-friends__header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.plus-friends__header .plus-friends-title{
+    font-size: 14px;
+    font-weight: 600
+}
+
+.plus-friends__header .plus-friends__learn-more{
+    font-size: 12px;
+    color: #b4b4b4;
+}
+
+.more__plus-friends .plus-friends__items {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.plus-friends__items .plus-friends__item{
+    width: 50%;
+    margin-bottom: 30px;
+    font-size: 13px;
+}
+
+.plus-friends__item i {
+    margin-right: 20px;
+}
+
+.more .more__links{
+    display: flex;
+    background-color: white;
+    padding: 20px;
+}
+
+.more__links .more__link{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.more__links .more__link img{
+    width: 45px;
+    height: 45px;
+    border-radius: 20%;
+    margin-bottom: 10px;
+}
+
+.more__links .more__link .more__link-title{
+    font-size: 12px;
+}
