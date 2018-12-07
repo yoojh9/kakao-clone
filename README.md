@@ -12,5 +12,12 @@
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Playing Flexbox Froggy game](flexboxfroggy.com/#ko)
 
-## 4. 완성 화면
+## 4. css color vlaue
+- [CSS Color](https://developer.mozilla.org/ko/docs/Web/CSS/color_value)
+
+## 5. align-self
+- [align-self](https://developer.mozilla.org/ko/docs/Web/CSS/align-self)
+
+## 6. 완성 화면
 - https://yoojh9.github.io/kakao-clone/index.html
+
