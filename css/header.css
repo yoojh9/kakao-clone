@@ -5,6 +5,11 @@
     position: fixed;
     width: 100%;/* position fixed로 고정하면 쭈그러들어 버려서 width: 100% 로 해야함*/
     top: 0;
+    z-index: 2;
+}
+
+.top-header a{
+    color: white;
 }
 
 .top-header .header__top,

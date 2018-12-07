@@ -7,6 +7,10 @@
 ## 2. 구글 폰트
 - [구글폰트](https://fonts.google.com/)
 
+
 ## 3. flex box
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Playing Flexbox Froggy game](flexboxfroggy.com/#ko)
+
+## 4. 완성 화면
+- https://yoojh9.github.io/kakao-clone/index.html
