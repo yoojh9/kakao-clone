@@ -7,15 +7,17 @@
     width: 100%;
     padding: 5px 10px;
     box-sizing: border-box;
-    border: 0;
+    border: 1px solid transparent;
     border-radius: 5px;
     background-color: #f1f2f3;
     font-size: 13px;
     text-align: center;
+    transition: border-color .5s linear;
 }
 
 .search-bar input:focus{
     outline:none;
+    border-color: #ffe94a;
 }
 
 .search-bar i{

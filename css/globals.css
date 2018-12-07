@@ -2,4 +2,14 @@ body {
     font-family: 'Open Sans', sans-serif;
     padding-top: 60px;
     padding-bottom: 65px;
+    animation: 1s bodyPopIn ease-in-out;
+}
+
+@keyframes bodyPopIn{
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
 }
