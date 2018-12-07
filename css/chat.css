@@ -1,0 +1,118 @@
+.body-chat{
+    padding-bottom:0;
+}
+
+.chat{
+    background-color: #a1c0d6;
+    height:100vh;
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+.chat-header,
+.chat-header .header__bottom a{
+    background-color: #a1c0d6;
+    color: black;
+}
+
+.chat-header{
+    border-bottom: 1px solid rgba(0,0,0, 0.1);
+}
+
+.chat .date-divider{
+    text-align: center;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 15px;
+}
+
+.chat__message.chat__message--from{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-bottom: 10px;
+}
+
+.chat__message.chat__message--to{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.chat__message .chat__message-time{
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.chat__message--from .chat__message-body{
+    background-color: #ffe934;
+    padding: 10px 5px;
+    border-radius: 6px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 14px;  
+}
+
+.chat__message--to img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.chat__message .chat__message-username{
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.chat__message--to .chat__message-body{
+    background-color: #ffffff;
+    padding: 10px 5px;
+    border-radius: 6px;
+    font-size: 14px;  
+    margin-right: 5px;
+}
+
+.type-message{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 45px;
+    background-color: #eeeeee;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+.type-message i.fa-plus{
+    color: #b4b4b4;
+}
+
+.type-message .type-message__input{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.type-message__input input {
+    width: 100%;
+    padding: 10px;
+}
+
+.type-message__input .fa-smile{
+    position: absolute;
+    right: 50px;
+    color: #b4b4b4;
+}
+
+.type-message__input .record-message{
+    color: #523737;
+    background-color: #ffe934;
+    padding: 12px;
+    margin-left:3px;
+    cursor: pointer;
+}
