@@ -22,5 +22,5 @@
 - [CSS Transitions](http://css3.bradshawenterprises.com/transitions/)
 
 ## 7. 완성 화면
-- https://yoojh9.github.io/kakao-clone/index.html
+- https://yoojh9.github.io/kakao-clone
 
